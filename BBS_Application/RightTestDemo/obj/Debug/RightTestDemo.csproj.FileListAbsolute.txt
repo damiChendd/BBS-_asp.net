@@ -1,0 +1,6 @@
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\bin\RightTestDemo.dll.config
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\bin\RightTestDemo.dll
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\bin\RightTestDemo.pdb
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\obj\Debug\RightTestDemo.csprojResolveAssemblyReference.cache
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\obj\Debug\RightTestDemo.dll
+C:\Users\ZeTile\Documents\Visual Studio 2013\Projects\BBS_Application\RightTestDemo\obj\Debug\RightTestDemo.pdb

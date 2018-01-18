@@ -1,0 +1,6 @@
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\bin\BBS_Application.dll.config
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\bin\BBS_Application.dll
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\bin\BBS_Application.pdb
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\obj\Debug\BBS_Application.csprojResolveAssemblyReference.cache
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\obj\Debug\BBS_Application.dll
+c:\users\zetile\documents\visual studio 2013\Projects\BBS_Application\BBS_Application\obj\Debug\BBS_Application.pdb
